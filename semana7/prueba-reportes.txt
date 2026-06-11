@@ -1,0 +1,1 @@
+Al realizar una petición POST a la ruta http://localhost:3000/reportes se registra un nuevo reporte enviado por el usuario. Posteriormente, al realizar una petición GET a la misma ruta, el servidor devuelve la lista de reportes almacenados. Esto permite verificar que la información fue recibida correctamente y que puede ser consultada posteriormente mediante la API.
